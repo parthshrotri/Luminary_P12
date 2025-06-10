@@ -1,6 +1,8 @@
 # Apollo Lunar Module Luminary Program P-12 Ascent Guidance #
 Hello! I assume if you're looking at this page, you're either lurking through my projects (I'm flattered) or you're here to grade my AA528 Final Project entitled: Analysis of Apollo Lunar Ascent Guidance.
 
+If you're here lurking, perhaps take a look at my report which is available for download in this repo.
+
 If you would like to run this simulation, you will need to download numpy, numpy-quaternion, plotly, scipy and tqdm.
 
 The simulation is in "ascent.ipynb", simply hit run all cells. The simulation data will be output to a file called "sim_att.npy" in your current working directory.
